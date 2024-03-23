@@ -9,6 +9,9 @@ conda create -n cpullama python=3.8 -y
 
 conda activate cpullama
 
+Step 3:
+Run template.py to create folder structure and files
+
 pip install -r requirements.txt
 
 Download the quantize model from the link provided in model folder & keep the model in the model directory:
