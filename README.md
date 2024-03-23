@@ -6,7 +6,9 @@ Steps 2:
 Create a virtual environment
 
 conda create -n cpullama python=3.8 -y
+
 conda activate cpullama
+
 pip install -r requirements.txt
 
 Download the quantize model from the link provided in model folder & keep the model in the model directory:
